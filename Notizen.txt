@@ -1,0 +1,28 @@
+Co-learning Space
+
+Name: CodeBuddies
+Sprache: English
+
+Farben:
+
+    Hauptfarbe: Sonniges Gelb #FFD700
+
+    Akzentfarbe: Frisches Grün #8FBC8F
+
+    Hintergrund: Weiß (#FFFFFF) oder Cremeweiß #FFF8DC
+
+    Kontrastfarbe: Himmelblau #87CEEB
+
+Fonts:
+
+    Heading (Überschriften): Pacifico
+
+    Body (Fließtext): Open Sans
+
+    Akzent (für besondere Textelemente): Montserrat
+
+
+Aufbau:
+
+    Mittige Navbar mit kleinem Logo. 
+    Content-Blocks mit einer Hintergrundfarbe. Ein Block pro Inhalt/Thema.
